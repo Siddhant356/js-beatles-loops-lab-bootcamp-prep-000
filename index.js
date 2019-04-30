@@ -17,6 +17,8 @@ function johnLennonFacts(array1){
 function iLoveBeatles(num){
   var array2=[]
   do{
-    array2.push()
-  }
+    array2.push("I love the Beatles!")
+    num++
+  }while()
+  
 }
